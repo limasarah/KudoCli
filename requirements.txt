@@ -1,0 +1,4 @@
+stravalib
+rich
+python-dotenv
+requests
